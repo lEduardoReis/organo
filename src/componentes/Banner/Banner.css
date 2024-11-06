@@ -1,7 +1,13 @@
 .banner{
     background-color: #6278f7;
+<<<<<<< HEAD
     text-align: center;
 }
 .banner-img{
+=======
+    text-align: center
+}
+.banner img{
+>>>>>>> 1039100aaf116e321cadcd29c4dccfd77e2d280d
     max-width: 100%;
 }
